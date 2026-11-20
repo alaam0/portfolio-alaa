@@ -14,18 +14,6 @@ A little space where I share what I'm learning, the projects I've worked on, and
 
 ---
 
-
-
-*My homepage — forest green, cream, and a simple layout.*
-
-<p align="center">
-  <img src="<img width="905" height="544" alt="image" src="https://github.com/user-attachments/assets/80a33409-16d6-4731-82ca-cac5e535809a" />
-" alt="Projects page screenshot" width="48%">
-  <img src="screenshots/about.png" alt="About page screenshot" width="48%">
-</p>
-
-> **Screenshots to add:** Save screenshots of your real website as `screenshots/home.png`, `screenshots/projects.png`, and `screenshots/about.png`. Until you add them, these image spaces will appear empty on GitHub.
-
 ## About this project
 
 I made this portfolio as part of my work at **EPITECH Paris**. I wanted a website that was simple to navigate but still felt personal. I chose a dark green and cream color palette and built everything using HTML and CSS.
