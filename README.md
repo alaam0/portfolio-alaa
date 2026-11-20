@@ -16,7 +16,8 @@ A little space where I share what I'm learning, the projects I've worked on, and
 
 ## A look at the website
 
-![Homepage preview](screenshots/home.png)
+![Homepage preview](<img width="1242" height="561" alt="image" src="https://github.com/user-attachments/assets/7df503df-4d77-46a1-ab96-96ad8db196d9" />
+)
 
 *My homepage — forest green, cream, and a simple layout.*
 
