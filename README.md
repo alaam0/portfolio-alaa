@@ -14,15 +14,13 @@ A little space where I share what I'm learning, the projects I've worked on, and
 
 ---
 
-## A look at the website
 
-![Homepage preview](<img width="1242" height="561" alt="image" src="https://github.com/user-attachments/assets/7df503df-4d77-46a1-ab96-96ad8db196d9" />
-)
 
 *My homepage — forest green, cream, and a simple layout.*
 
 <p align="center">
-  <img src="screenshots/projects.png" alt="Projects page screenshot" width="48%">
+  <img src="<img width="905" height="544" alt="image" src="https://github.com/user-attachments/assets/80a33409-16d6-4731-82ca-cac5e535809a" />
+" alt="Projects page screenshot" width="48%">
   <img src="screenshots/about.png" alt="About page screenshot" width="48%">
 </p>
 
