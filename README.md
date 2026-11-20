@@ -59,7 +59,6 @@ All the pages use the same `style.css` file.
 - **Git & GitHub** to keep track of changes
 - **GitHub Pages** for publishing the website (once enabled)
 
-I kept the code straightforward so I can understand it and continue improving it myself.
 
 ## Run it locally
 
